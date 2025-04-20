@@ -1,5 +1,5 @@
-# TinyCalculator Abstract ℹ️
-TinyCalculator is a simple C++ command-line program for basic arithmetic operations: addition, subtraction, multiplication, division, and modulo. Users select operations via a menu, input values, and receive results. The program tracks operation counts and displays a summary. It demonstrates OOP principles, control flow, and user input handling.
+# TINYCAL Abstract ℹ️
+TINYCAL is a simple C++ command-line program for basic arithmetic operations: addition, subtraction, multiplication, division, and modulo. Users select operations via a menu, input values, and receive results. The program tracks operation counts and displays a summary. It demonstrates OOP principles, control flow, and user input handling.
 
 This project is a great starting point for anyone learning C++ and object-oriented programming concepts, as it demonstrates the use of classes, functions, loops, and switch statements. The program also includes user input handling and basic control flow mechanisms to ensure a smooth user experience. Future enhancements could include additional mathematical functions, improved input validation, and a graphical user interface for better accessibility.
 
